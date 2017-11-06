@@ -13,6 +13,6 @@ The structure of all experiments is very similar:
 
 # Experiments
 
-- finding the single pixel, which is the "center" of a solid ellipse on a noisy background: `ellipse`;
+- finding the single pixel, which is the "center" of a solid ellipse on a noisy background: [ellipse](ellipse/Ellipses%20Experiments.ipynb#Detecting-the-position-of-a-single-ellipse-on-a-noisy-background);
 - finding the single pixel, which is the "center" of a hollow ellipse ("doughnut") on a noisy background: `hollow-ellipse`;
 - finding the single pixel on each frame tracking the position of the "center" of a hollow "continious" (present in every frame) ellipse on a noisy background including other random (appearing and disappearing on each frame) hollow-ellipses: `moving-hollow-ellipse`.
